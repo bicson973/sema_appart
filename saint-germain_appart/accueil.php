@@ -31,13 +31,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item me-3">
-                        <a class="nav-link active" aria-current="page" href="http://localhost:8888/sema_appart/saint-germain_appart/accueil.php" target="_blank">Accueil</a>
+                        <a class="nav-link active" aria-current="page" href="accueil.php" target="_blank">Accueil</a>
                     </li>
                     <li class="nav-item me-3">
-                        <a class="nav-link" href="http://localhost:8888/sema_appart/saint-germain_appart/ajouter_annonce.php" target="_blank">Ajouter une annonce</a>
+                        <a class="nav-link" href="ajouter_annonce.php" target="_blank">Ajouter une annonce</a>
                     </li>
                     <li class="nav-item me-3">
-                        <a class="nav-link" href="http://localhost:8888/sema_appart/saint-germain_appart/consulter_les_annonces.php" target="_blank">Consulter toutes les annonces</a>
+                        <a class="nav-link" href="consulter_les_annonces.php" target="_blank">Consulter toutes les annonces</a>
                     </li>
                 </ul>
             </div>
